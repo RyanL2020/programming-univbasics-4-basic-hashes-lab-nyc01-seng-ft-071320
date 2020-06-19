@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  puts {truck => red} 
+  travel = {:truck => "red"} 
 end
 
 def pioneer
