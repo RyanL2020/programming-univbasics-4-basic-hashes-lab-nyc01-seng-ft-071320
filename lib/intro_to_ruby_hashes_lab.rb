@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {truck => red} 
+  puts {truck => red} 
 end
 
 def pioneer
